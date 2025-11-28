@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 813846ad879d995ef777877adbecc97bec50c8c8 pujithamule <49268380-pujithamule@users.noreply.replit.com> 1764235523 +0000	commit (initial): Initial commit
+813846ad879d995ef777877adbecc97bec50c8c8 77167cb22e110bc8fcf02fc684213d14cb87e059 pujithamule <49268380-pujithamule@users.noreply.replit.com> 1764235532 +0000	commit: Extracted stack files
+77167cb22e110bc8fcf02fc684213d14cb87e059 ca9cd43d7184f3a416058597378f1d90f209ac85 pujithamule <49268380-pujithamule@users.noreply.replit.com> 1764235701 +0000	commit: Add a modern, secure dashboard for Shopify store analytics
+ca9cd43d7184f3a416058597378f1d90f209ac85 a6469596061bbaed032ebc2cef5d7813a45909bf pujithamule <49268380-pujithamule@users.noreply.replit.com> 1764235917 +0000	commit: Update UI elements and database schema for improved application structure
+a6469596061bbaed032ebc2cef5d7813a45909bf af9cbfb3eba3e1434a01572923731e61796ab7fc pujithamule <49268380-pujithamule@users.noreply.replit.com> 1764235975 +0000	commit: Add user authentication and multi-tenant support to backend service
+af9cbfb3eba3e1434a01572923731e61796ab7fc 6b97a636912e856b7ef0b8d026f85b7cf6517cc7 pujithamule <49268380-pujithamule@users.noreply.replit.com> 1764236038 +0000	commit: Add script to seed database with demo tenant, user, customers, and products
+6b97a636912e856b7ef0b8d026f85b7cf6517cc7 91323d16e58d6a2556972c9733edaa2189fba222 pujithamule <49268380-pujithamule@users.noreply.replit.com> 1764236181 +0000	commit: Integrate real data fetching and authentication across the dashboard
+91323d16e58d6a2556972c9733edaa2189fba222 646dc7f344141b7218f07fac2e9c938e08f58b3a pujithamule <49268380-pujithamule@users.noreply.replit.com> 1764236207 +0000	commit: Saved progress at the end of the loop
